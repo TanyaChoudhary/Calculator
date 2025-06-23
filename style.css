@@ -1,0 +1,26 @@
+.button
+{
+    font-family: 'Italic';
+    padding: 25px;
+    margin: 5px 3px;
+    border: 2px solid rgb(61, 7, 50);
+    border-radius: 0;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(26, 2, 28);
+    font-size:20px;
+    color:white;
+    font-weight: bold;
+    background: linear-gradient(rgb(52, 7, 61),rgb(177, 100, 206));
+}
+.row input
+{
+    padding:12px 4px;
+    margin:20px;
+    border: 2px solid rgb(77, 14, 61);
+    border-radius:6px;
+    box-shadow: 5px 5px 5px rgb(61, 25, 47);
+    background:linear-gradient(rgb(148, 58, 148),rgb(235, 124, 235));
+     font-size:22px;
+    font-weight: bold;
+    color:white;
+}
